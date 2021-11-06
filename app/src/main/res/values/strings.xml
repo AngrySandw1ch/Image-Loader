@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Image Loader</string>
+    <string name="url_editText_hint">Enter url</string>
+    <string name="button_loader">Button</string>
+</resources>
